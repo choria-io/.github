@@ -8,6 +8,12 @@ First please note that participation is bound by our [Code Of Conduct](CODE_OF_C
 
 We do not have strong guidelines on what you put in an issue, we'll gladly work with you to gather the information we require. We do ask that you try to put as much detail as possible to help everyone use their time in a meaningful way.
 
+# Signed commits
+
+Several of our repositories now require signed commits after requests from users in regulated industries.
+
+If you need help configuring your Git client please see [GitHub Documentation](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification) on this subject.  We suggest using GPG.
+
 # PRs
 
 Almost every PR will need an issue first.  You do not need issues for trivial updates like typos, most documentation updates etc.  But if you're doing a PR that adjusts behavior we will need a issue to go with it.
@@ -40,6 +46,5 @@ For trivial updates without issues and where context is not needed:
 
 Usually we like to keep discussions on issues where they relate but of course we are very happy to chat in a more real time manner, especially useful if you want to find out our thoughts on your proposed changes ahead of spending your valuable time on them:
 
- * [Mailing List](https://groups.google.com/forum/#!forum/choria-users)
+ * [GitHub Discussions](https://github.com/choria-io/general/discussions)
  * [#choria on the Puppet Slack](http://slack.puppet.com/)
- * #mcollective on Freenode
