@@ -13,5 +13,3 @@ a Raspberry Pi.
  * [GitHub Discussions](https://github.com/choria-io/general/discussions)
  * [Slack](https://puppetcommunity.slack.com/) on channel `#choria`
 
-
-<p align="center"><img src="https://yum.us.choria.io/gh-banner.png?utm_source=github" alt="Choria Logo"></p>
