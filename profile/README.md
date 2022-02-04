@@ -11,5 +11,5 @@ a Raspberry Pi.
  * [Documentation](https://choria.io/docs)
  * [Blog](https://choria.io/blog/)
  * [GitHub Discussions](https://github.com/choria-io/general/discussions)
- * [Slack](https://puppet.slack.com/) on channel `#choria`
+ * [Slack](https://slack.puppet.com/) on channel `#choria`
 
